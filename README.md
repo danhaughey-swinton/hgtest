@@ -1,4 +1,4 @@
 hgtest
 ======
 
-new lines
+new lines!
